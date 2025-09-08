@@ -58,6 +58,7 @@ Understand differences in how they react to ECB changes and perform
 - Investment data covers bonds and debt securities only
 - Focus limited to household customers (not SMEs or corporates)
 - Time range limited to 5 years
+  
 **Next steps:**
   1. Analyze the delta between ECB rates and bank rates
   2. Deep-dive into installment credit and housing loan trends
