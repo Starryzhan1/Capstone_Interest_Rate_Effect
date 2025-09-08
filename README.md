@@ -1,4 +1,4 @@
-# DA_Capstone_Interest_Rate_Effect
+# Capstone_Interest_Rate_Effect
 
 ## **The Summary**
 ### **Conclusions**
@@ -8,7 +8,7 @@
 
 ### **Techniques**
 
-### **Next Steps**
+### **Limitation & Next Steps**
 
 ## **Data Source**
 
