@@ -27,15 +27,15 @@ This project analyzes how the European Central Bank’s (ECB) interest rate poli
 
 ## **✅ MVP Breakdown-Dashboards**
 
-### **1️⃣ Macro layer – ECB & Bundesbank Data**
+**1️⃣ Macro layer – ECB & Bundesbank Data**
 Understand the broader picture of what happened behind the ECB policy;  Show overall market signals that affect all banks.
 
 
-### **2️⃣ Customer layer – Behavioral trends**
+**2️⃣ Customer layer – Behavioral trends**
 Show how customers shift between saving, borrowing, and investing depending on the rate environment with aggregated bank data
 
 
-### **3️⃣ Bank layer – Traditional vs Digital**
+**3️⃣ Bank layer – Traditional vs Digital**
 Understand differences in how they react to ECB changes and perform
 
 ## **📌Key Takeaways**
