@@ -27,29 +27,16 @@ This project analyzes how the European Central Bank’s (ECB) interest rate poli
 
 ## **✅ MVP Breakdown-Dashboards**
 
-### **1️⃣ Macro layer – ECB & Bundesbank**
-
-- **ECB key rates**: Deposit Facility Rate, Main Refinancing Rate.
-- Unemployment rate & Inflation rate
-- **Bundesbank aggregates**:
-    - Deposits (overnight, term)
-    - Loans (mortgages, consumer loans)
-    - Investment (bond and debt securities)
-- **Purpose**: Understand the broader picture of what happened behind the ECB policy;  Show overall market signals that affect all banks.
+### **1️⃣ Macro layer – ECB & Bundesbank Data**
+Understand the broader picture of what happened behind the ECB policy;  Show overall market signals that affect all banks.
 
 
 ### **2️⃣ Customer layer – Behavioral trends**
-
-- Bundesbank: volume of deposits & loan & investment for households - Same data used in the layer 1
-- **Purpose**: Show how customers shift between saving, borrowing, and investing depending on the rate environment with aggregated bank data
+Show how customers shift between saving, borrowing, and investing depending on the rate environment with aggregated bank data
 
 
 ### **3️⃣ Bank layer – Traditional vs Digital**
-
-- **1 traditional(Commerzbank)** and 2 **digital banks/fintechs (DKB & TradeRepublic)** and track:
-    - Savings account interest rate history
-    - Interest rate related income/expense
-- **Purpose:**  differences in how they react to ECB changes. And how it performs by analysing the net interest income
+Understand differences in how they react to ECB changes and perform
 
 ## **📌Key Takeaways**
 ### 🧍 Household Financial Behaviors:
