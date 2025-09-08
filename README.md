@@ -21,7 +21,7 @@ This project analyzes how the European Central Bank’s (ECB) interest rate poli
 - How do customers adjust their saving, borrowing, and investment behavior in response to interest rate changes?
 
 ## **📊Analysis Procedure**
-<img src="Images/Data pipeline.drawio.png" alt="Dashboard" width="700"/>
+<img src="Dashboard/Data pipeline.png" alt="Dashboard" width="700"/>
 
 -------------------------------------------------------------------------------------------
 
