@@ -82,3 +82,9 @@ Understand differences in how they react to ECB changes and perform
 - Jupyter Notebook
 - Tableau
 
+## **🧩Tableau Data Model**
+The final data model was built in Tableau using the following relationships:
+<img src="Dashboard/Tableau data model.png" alt="Dashboard" width="700"/>
+
+
+
